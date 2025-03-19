@@ -1,5 +1,12 @@
 # Movie Ratings Analysis
 
+For this movie rating analysis hands on we were given three tasks to analyze a set of movie data.
+1. Binge watching patterns : The first task is to identify wich age groups tend to bigne-watch the most. We used filter and groupby funcntions to identify binge- watchers and put them into their designated age brackets. after this we can join the two data sets and calculate the binge-watching percentage per age group.
+2. Churn users : The next task was more simple, we only needed to filter which users were at rish of churning and return the count.
+3. Movie watching trends : For our last task we only needed to group the years together and count how many movies were watched during each.
+
+Problems Faced : The only couple problems faced were once again remembering that I had to cannge the input and output file locations like last week's ands on as well as realizing that for this assignment I ad to generate a data set myself, taking a little while wondering why my outputs were empty since last week's was already prepared for us. spark also seemed to make a new outputs folder but it doesn't seem to cause any issue so I'm just goign to leave it as is.
+
 ## **Prerequisites**
 
 Before starting the assignment, ensure you have the following software installed and properly configured on your machine:
